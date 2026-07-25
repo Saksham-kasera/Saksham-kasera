@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="./lanyard.svg?v=1" alt="Animated lanyard ID badge for Saksham Gupta" width="360" />
 
   <h1>Hey, I'm Saksham Gupta</h1>
-  <p><strong>B.Tech CSE Student</strong> at <strong>J. C. Bose University of Science and Technology</strong> · Class of 2030 · 1st Semester · India</p>
+  <p><strong>B.Tech CSE Student</strong> at <strong>J. C. Bose University of Science and Technology</strong> · Class of 2026 · 1st Semester · India</p>
 
   <p>
     <a href="https://github.com/Saksham-kasera"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Saksham--kasera-00D9FF?style=for-the-badge&labelColor=030712" /></a>
